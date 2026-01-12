@@ -1,0 +1,12 @@
+{
+  "accounts": [
+    {
+      "email": "john@doe.com",
+      "password": "password",
+      "server": "pop.server.com",
+      "port": 995,
+      "enabled": true,
+      "description": "Description"
+    }
+  ]
+}
